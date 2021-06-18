@@ -1,2 +1,4 @@
-Download Link for Saved Models: https://drive.google.com/file/d/1iSwEYIXGHl91mzHlFcXYxvkE1yxBzPTt/view?usp=sharing
-Download Link for Saved weights: https://drive.google.com/file/d/1iSwEYIXGHl91mzHlFcXYxvkE1yxBzPTt/view?usp=sharing
+Download Link for Saved Models Binary Classification: https://drive.google.com/file/d/1iSwEYIXGHl91mzHlFcXYxvkE1yxBzPTt/view?usp=sharing
+Download Link for Saved weights Binary Classification: https://drive.google.com/file/d/1iSwEYIXGHl91mzHlFcXYxvkE1yxBzPTt/view?usp=sharing
+Download Link for Saved Models 7-Class Classification: https://drive.google.com/file/d/1crVM9oj6QEZ4Vor0d_KjIopHpKP3EsK1/view?usp=sharing
+Download Link for Saved weights 7-Class Classification: https://drive.google.com/file/d/1crVM9oj6QEZ4Vor0d_KjIopHpKP3EsK1/view?usp=sharing
